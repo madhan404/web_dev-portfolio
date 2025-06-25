@@ -1,0 +1,44 @@
+/* skills-override.css */
+
+.skills__title::after {
+    background: var(--primary-color) !important;
+}
+
+.skills-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem; 
+}
+
+.skill-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    transition: color 0.3s ease;
+}
+
+.skill-item:hover {
+    color: var(--primary-color);
+}
+
+.skill-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    fill: currentColor;
+}
+
+.skill-item .fab,
+.skill-item .fas {
+    font-size: 24px;
+    width: 24px;
+    text-align: center;
+}
+
+/* Remove old skill bar styles if they are still affecting layout */
+.skill, .skill__info, .skill__level {
+    display: none !important;
+} 
