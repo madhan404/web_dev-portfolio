@@ -167,6 +167,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Madhanraj S - [@yourtwitter](https://twitter.com/yourtwitter) - madhanrajs047@gmail.com
+Madhanraj S - madhanrajs047@gmail.com
 
-Project Link: [https://github.com/madhan404/portfolio](https://github.com/madhan404/portfolio)
+Project Link: [https://github.com/madhan404/web_dev-portfolio](https://github.com/madhan404/web_dev-portfolio)
+Live preview: [https://portfolio-contact-4ca82.web.app/](https://portfolio-contact-4ca82.web.app/)
